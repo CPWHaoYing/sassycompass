@@ -1,5 +1,10 @@
-$mycolor: yellow;
+$bgcolor: yellow;
+$textColor : navy;
 
 body {
-  background: $mycolor;
+  background: $bgcolor;
+}
+
+a{	
+	color: $textColor
 }
