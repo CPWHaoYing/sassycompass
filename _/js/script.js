@@ -1,1 +1,1 @@
-script.js
+function other(){return"new new"}function test(){return"Yoshi"}
