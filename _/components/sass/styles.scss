@@ -1,10 +1,11 @@
 $bgcolor: yellow;
-$textColor : navy;
+$textColor : blue;
 
 body {
   background: $bgcolor;
 }
 
 a{	
-	color: $textColor
+	color: $textColor;
+	text-decoration : underline;
 }
